@@ -1,6 +1,6 @@
-# Conway's Gam Of Life
+# Conway's Game Of Life
 
 An implemtention of conway's game of life using java / ui is built with swing.
 
-more info : [GoL wikipedia's page](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
+[Conway's Game Of Life explanation ](https://en.wikipedia.org/wiki/Conway's_Game_of_Life)
 
