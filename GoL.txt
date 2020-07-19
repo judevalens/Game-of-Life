@@ -1,0 +1,23 @@
+        Cell Class
+            char state
+                a cell can alive or dead
+
+            -   constructor(char state)
+                    set the state of the cell      
+            - getState()
+            - setState()
+        
+        CellMatrix Class
+            -  constructor  (int  row , int col)
+                - create a matrix of Cell of size row*col
+
+            -  setSurrounding(int row, int col)
+                    adds the neighors of a given cell into an arrayList
+
+            -  iteration()
+                    Iterate trough the matrix
+                    get the 8 direct neighors of the current cell
+                    the state of this cell for the next iteration is dependent on the state of its neighors
+                    
+            -  printMat()
+                    after each iteration, print the Matrix to the console
